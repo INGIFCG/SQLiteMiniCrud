@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQliteTest</string>
+    <string name="user_register">Registrar Usuario</string>
+    <string name="user_select">Consultar Usuario</string>
+    <string name="user_list_spiner">Consultar Lista de Usuarios utilizando Spiner</string>
+    <string name="user_list_listview">Consultar Lista de Usuarios utilizando ListView</string>
+</resources>
